@@ -1,4 +1,4 @@
-package main.implementation.hard;
+package main.implementation.hard.heap;
 
 import java.util.ArrayList;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package main.implementation.medium;
+package main.implementation.medium.array;
 
 public class ProductOfArrayExceptSelf {
   public static void main(String[] args) {

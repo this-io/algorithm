@@ -1,4 +1,4 @@
-package main.implementation.easy;
+package main.implementation.easy.array;
 
 public class BestTimeToBuyAndSellStock {
   public static void main(String[] args) {

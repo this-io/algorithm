@@ -1,4 +1,4 @@
-package main.implementation.medium;
+package main.implementation.medium.array;
 
 import java.util.ArrayList;
 import java.util.Arrays;

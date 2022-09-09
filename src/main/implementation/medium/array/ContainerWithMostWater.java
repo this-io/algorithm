@@ -1,4 +1,4 @@
-package main.implementation.medium;
+package main.implementation.medium.array;
 
 public class ContainerWithMostWater {
 

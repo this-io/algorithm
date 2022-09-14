@@ -1,7 +1,4 @@
-package main.implementation.easy.linkedl;
-
-import java.util.ArrayList;
-import java.util.List;
+package main.implementation.hard.linkedl;
 
 public class MergeKSortedLists {
   public static void main(String[] args) {

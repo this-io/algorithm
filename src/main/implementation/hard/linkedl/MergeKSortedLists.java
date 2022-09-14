@@ -1,5 +1,7 @@
 package main.implementation.hard.linkedl;
 
+import org.jetbrains.annotations.NotNull;
+
 public class MergeKSortedLists {
   public static void main(String[] args) {
     MergeKSortedLists m = new MergeKSortedLists();
@@ -15,7 +17,7 @@ public class MergeKSortedLists {
     display(result);
   }
 
-  public ListNode mergeKLists(ListNode[] lists) {
+  public ListNode mergeKLists(ListNode @NotNull [] lists) {
     if (lists.length == 0) {
       return null;
     }

@@ -1,4 +1,4 @@
-package main.implementation.easy;
+package main.implementation.easy.tree;
 
 public class SameTree {
     public static void main(String[] args) {

@@ -1,5 +1,7 @@
 package main.implementation.easy;
 
+import main.implementation.easy.tree.SameTree;
+
 public class SymmetricTree {
     public static void main(String[] args) {
 

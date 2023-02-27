@@ -1,5 +1,4 @@
-package implementation.hard;
-import java.math.*;
+package implementation.hard.median_sorted_array;
 
 public class MediumSortedArray {
     public static void main(String[] args) {

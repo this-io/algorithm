@@ -76,7 +76,7 @@ public class NumberOfIslands {
   private boolean isSafe(char[][] grid, int i, int j, boolean vis[][]) {
     return (i >= 0) && (i < rows) &&
             (j >= 0) && (j < cols) &&
-            (grid[i][j] == '1' && !vis[i][j]);
+             (grid[i][j] == '1' && !vis[i][j]);
   }
 
   static class Pair {
